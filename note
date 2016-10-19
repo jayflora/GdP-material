@@ -1,0 +1,3 @@
+testing branching merging
+# local branch :
+git checkout -b newbranch
